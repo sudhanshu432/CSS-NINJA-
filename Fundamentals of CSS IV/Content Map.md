@@ -27,6 +27,13 @@ This repository contains various code examples, exercises, and projects focused 
 19. [Add CSS Properties (Code) - Easy](#add-css-properties---code---easy)
 20. [Budget Tracker Application II (Code) - Easy](#budget-tracker-application-ii---code---easy)
 21. [Writing Modes](8.%20Writing%20Modes)
+22. [Writing Modes (MCQ) - Easy](#writing-modes---mcq)
+23. [Text Direction (MCQ) - Easy](#text-direction---mcq)
+24. [Add the CSS Properties II (Code) - Easy](#add-the-css-properties-ii---easy)
+25. [CSS Sizing Techniques](9.%20CSS%20Sizing%20Technique)
+26. [Object-Fit Property (MCQ) - Easy](#object-fit-property---mcq)
+27. [Conclusion](10.%20Conclusion)
+28. [Notes](11.%20Notes)
 
 ---
 
