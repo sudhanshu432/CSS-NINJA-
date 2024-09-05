@@ -1,4 +1,4 @@
-# 🏏 Cricket Website Enhancement Project
+# 🏏 Cricket Website Project
 
 ## 📊 Objective
 
