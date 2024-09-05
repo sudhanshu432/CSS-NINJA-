@@ -51,7 +51,9 @@ You're a developer tasked with enhancing the National Cricket Team Application's
 ## 🎨 Expected Output
 
 ### Header Section
-![Header Example](path/to/header-image.jpg)
+![Header Example]
+![image](https://github.com/user-attachments/assets/1c310998-950e-4a11-af0d-312ea5d73f92)
+
 *Example of fixed header with background color, centered text, and shadow effects.*
 
 ### Sticky Images Section
