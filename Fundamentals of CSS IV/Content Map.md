@@ -7,7 +7,7 @@ This repository contains various code examples, exercises, and projects focused 
 ## 📑 Index of Topics
 
 1. [CSS Positioning I](1.%20CSS%20Positioning%20I)
-2. [CSS Positioning II](#2.%20CSS%20Positioning%20II)
+2. [CSS Positioning II](2.%20CSS%20Positioning%20II)
 3. [Find the Output (MCQ) - Easy](#find-the-output---easy)
 4. [Find the Correct Code (MCQ) - Easy](#find-the-correct-code---easy)
 5. [CSS Positioning III](#css-positioning-iii)
