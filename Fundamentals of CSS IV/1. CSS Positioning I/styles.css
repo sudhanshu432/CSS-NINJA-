@@ -1,0 +1,70 @@
+header {
+  background-color: rgb(246, 154, 34);
+  color: white;
+  text-align: center;
+  /* Default Position */
+  /* position: static;  */
+  position: relative; 
+  /* position: absolute;  */
+  /* top: 100px;
+  left: 10px; */
+  /* bottom: 0px; */
+}
+
+body{
+  position: relative;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+}
+
+section {
+  display: inline-block;
+  width: 75%;
+  text-align: justify;
+}
+main {
+  border: 2px red solid;
+}
+
+.main-heading {
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+
+.sub-heads {
+  background-color: rgb(0, 0, 0, 0.3);
+}
+
+aside {
+  display: inline-block;
+  width: 24%;
+  background-color: rgb(124, 122, 123);
+  vertical-align: top;
+}
+
+#overlay{
+  /* position: absolute; */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(0,0,0,0.85);
+}
+
+#pop-up {
+  position: fixed;
+  width: 200px;
+  height: 200px;
+  background-color: azure;
+  top: 40%;
+  left: 30%;
+  border-radius: 10px;
+  text-align: center;
+  line-height: 200px;
+  background: linear-gradient(to right, red, blue );
+}
