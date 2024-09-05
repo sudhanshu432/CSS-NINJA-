@@ -150,6 +150,35 @@ This repository contains various code examples, exercises, and projects focused 
 - **Overview**: Learn about the CSS `writing-mode` property, which allows you to control the text direction and flow in creative layouts.  
 - 📄 [View Source Code](8.%20Writing%20Modes)
 
+### 23. Text Direction (MCQ) - Easy
+- 🎯 **Difficulty**: Easy | **Score**: 20/20  
+- **Overview**: Test your understanding of text direction in CSS, including `direction` and `text-align`.  
+- 📄 [Problem Statement](](Practice%20Problems/MCQ.pdf) | [Source Code](](Practice%20Problems/MCQ.pdf)
+
+### 24. Add the CSS Properties II (Code) - Easy
+- 🎯 **Difficulty**: Easy | **Score**: 80/80  
+- **Overview**: Implement additional CSS properties such as `writing-mode` and `text-direction` to complete a given layout.  
+- 📄 [Problem Statement](#) | [Source Code](#)
+
+### 25. CSS Sizing Techniques
+- ⏳ **Duration**: 07:12  
+- **Overview**: Explore various CSS sizing techniques, including percentages, viewport units, and flexible boxes.  
+- 📄 [View Source Code](9.%20CSS%20Sizing%20Technique)
+
+### 26. Object-Fit Property (MCQ) - Easy
+- 🎯 **Difficulty**: Easy | **Score**: 20/20  
+- **Overview**: Multiple-choice questions on the `object-fit` property and its impact on image and video sizing.  
+- 📄 [Problem Statement](](Practice%20Problems/MCQ.pdf) | [Source Code](](Practice%20Problems/MCQ.pdf)
+
+### 27. Conclusion
+- **Summary**: Recap of key concepts and techniques covered in the repository. Reflect on your learning journey and the skills you have acquired.  
+- 📄 [Read More](10.%20Conclusion)
+
+### 28. Notes
+- **Additional Resources**: Useful links, references, and tips for further learning about CSS positioning and layout techniques.  
+- 📄 [View Notes](11.%20Notes)
+
+
 ---
 
 ## 📝 Contributions
