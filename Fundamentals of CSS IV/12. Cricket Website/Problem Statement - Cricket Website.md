@@ -49,7 +49,7 @@ You're a developer tasked with enhancing the National Cricket Team Application's
 4. **Step 4**: Upload the .zip file (maximum 50MB).
 
 ## 🎨 Expected Output
-![Cricket Website](https://github.com/user-attachments/assets/ddfcdc5c-f1f7-4fda-96d6-1e3cf2fa37b5)
+![Cricket Website - Google Chrome 2024-09-06 04-00-37](https://github.com/user-attachments/assets/5b27f9ad-172c-48cc-9902-b0fed212e2bd)
 
 ## 📝 Notes
 
