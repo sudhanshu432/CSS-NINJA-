@@ -43,7 +43,7 @@ You're a developer tasked with enhancing the National Cricket Team Application's
 
 ## 🚀 Steps to Complete
 
-1. **Step 1**: Download the Starter Kit  [Problem Statement](12.%20Cricket%20Website/Problem%20Statement%20-%20Cricket%20Website.md)
+1. **Step 1**: Download the Starter Kit.
 2. **Step 2**: Complete the project on your local IDE.
 3. **Step 3**: Export your code as a .zip file.
 4. **Step 4**: Upload the .zip file (maximum 50MB).
@@ -54,8 +54,7 @@ You're a developer tasked with enhancing the National Cricket Team Application's
 ## 📝 Notes
 
 - Ensure to style your page according to the given tasks and evaluation parameters.
-- Use provided CSS guidelines and include GIFs or animations where required.
-
+- Use provided CSS guidelines
 ---
 
 **Happy Coding!** ✨
