@@ -49,36 +49,7 @@ You're a developer tasked with enhancing the National Cricket Team Application's
 4. **Step 4**: Upload the .zip file (maximum 50MB).
 
 ## 🎨 Expected Output
-
-### Header Section
-![Header Example]
-![image](https://github.com/user-attachments/assets/1c310998-950e-4a11-af0d-312ea5d73f92)
-
-*Example of fixed header with background color, centered text, and shadow effects.*
-
-### Sticky Images Section
-![Sticky Images Example](path/to/sticky-images.jpg)
-*Example of sticky images with overlay effects.*
-
-### Main Content
-![Main Content Example](path/to/main-content.jpg)
-*Example of main content with team member details.*
-
-### Players List
-![Players List Example](path/to/players-list.jpg)
-*Example of a scrollable list of players.*
-
-### Table of Rankings
-![Table of Rankings Example](path/to/rankings-table.jpg)
-*Example of a table with rankings and styling.*
-
-### Footer
-![Footer Example](path/to/footer-image.jpg)
-*Example of a footer with text, background color, and padding.*
-
-### Adding GIFs
-![Cricket Animation](path/to/cricket-animation.gif)
-*Example of adding a GIF to enhance the page.*
+![Cricket Website](https://github.com/user-attachments/assets/ddfcdc5c-f1f7-4fda-96d6-1e3cf2fa37b5)
 
 ## 📝 Notes
 
