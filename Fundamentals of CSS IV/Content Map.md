@@ -169,7 +169,7 @@ This repository contains various code examples, exercises, and projects focused 
 ### 26. Object-Fit Property (MCQ) - Easy
 - 🎯 **Difficulty**: Easy | **Score**: 20/20  
 - **Overview**: Multiple-choice questions on the `object-fit` property and its impact on image and video sizing.  
-- 📄 [Problem Statement](](Practice%20Problems/MCQ.pdf) | [Source Code](](Practice%20Problems/MCQ.pdf)
+- 📄 [Problem Statement](Practice%20Problems/MCQ.pdf) | [Source Code](Practice%20Problems/MCQ.pdf)
 
 ### 27. Conclusion
 - **Summary**: Recap of key concepts and techniques covered in the repository. Reflect on your learning journey and the skills you have acquired.  
