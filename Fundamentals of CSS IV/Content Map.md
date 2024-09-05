@@ -40,7 +40,7 @@ This repository contains various code examples, exercises, and projects focused 
 ## 🎯 Practice Challenge
 
 - **Cricket Website**: Apply all the concepts you've learned by building a responsive, dynamic cricket website using CSS positioning and layout techniques.
-   - 📄 [Problem Statement](#) | [Source Code: HTML](12.%20Cricket%20Website/index.html)[CSS](12.%20Cricket%20Website/style.css)
+   - 📄 [Problem Statement](#) | [Source Code: HTML](12.%20Cricket%20Website/index.html)[ CSS](12.%20Cricket%20Website/style.css)
 
 ---
 
