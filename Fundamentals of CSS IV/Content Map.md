@@ -11,7 +11,7 @@ This repository contains various code examples, exercises, and projects focused 
 3. [Find the Output (MCQ) - Easy](#find-the-output---easy)
 4. [Find the Correct Code (MCQ) - Easy](#find-the-correct-code---easy)
 5. [CSS Positioning III](3.%20CSS%20Positioning%20III)
-6. [Positioning the Pop-Up](#positioning-the-pop-up)
+6. [Positioning the Pop-Up](4.%20Positioning%20the%20Pop-Up)
 7. [Position Property (MCQ) - Easy](#position-property---easy)
 8. [Find the Correct Code II (MCQ) - Easy](#find-the-correct-code-ii---easy)
 9. [Add the Position Property (Code) - Easy](#add-the-position-property---easy)
