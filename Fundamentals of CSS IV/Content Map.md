@@ -16,9 +16,9 @@ This repository contains various code examples, exercises, and projects focused 
 8. [Find the Correct Code II (MCQ) - Easy](#find-the-correct-code-ii---easy)
 9. [Add the Position Property (Code) - Easy](#add-the-position-property---easy)
 10. [Budget Tracker Application (Code) - Easy](#budget-tracker-application---easy)
-11. [Z-Index](#z-index)
-12. [Float Property](#float-property)
-13. [Overflow Property](#overflow-property)
+11. [Z-Index](5.%20Z-Index)
+12. [Float Property](6.%20Float%20Property)
+13. [Overflow Property](7.%20Overflow%20Property)
 14. [Z-Index (MCQ) - Easy](#z-index-mcq---easy)
 15. [Error Analysis (MCQ) - Easy](#error-analysis---mcq---easy)
 16. [Float Property (MCQ) - Easy](#float-property---mcq---easy)
@@ -26,7 +26,7 @@ This repository contains various code examples, exercises, and projects focused 
 18. [Error Analysis II (MCQ) - Easy](#error-analysis-ii---mcq---easy)
 19. [Add CSS Properties (Code) - Easy](#add-css-properties---code---easy)
 20. [Budget Tracker Application II (Code) - Easy](#budget-tracker-application-ii---code---easy)
-21. [Writing Modes](#writing-modes)
+21. [Writing Modes](8.%20Writing%20Modes)
 
 ---
 
