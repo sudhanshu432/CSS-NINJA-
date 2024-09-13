@@ -31,3 +31,6 @@ Continue exploring Flexbox and experiment with different properties to become pr
 
 _Thank you for using this guide to solidify your understanding of Flexbox!_
 
+---
+
+**Author**: Sudhanshu Kumar
