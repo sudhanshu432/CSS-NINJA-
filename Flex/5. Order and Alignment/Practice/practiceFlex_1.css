@@ -1,0 +1,58 @@
+.container{
+  display: flex;
+  border: 2px solid black;
+  flex-direction: row; 
+
+  /* flex-wrap: wrap; */
+ 
+  justify-content: start;
+  align-content: start;
+  height: 90vh;
+  /* column-gap: 20px; */
+  /* row-gap: 20px; */
+  flex-direction: column;
+}
+
+.item{
+  width: 100px;
+  height: 100px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 2em;
+  border: 1px solid black;
+}
+
+.item-1{
+  background-color: lightcoral;
+  /* order: 1; */
+}
+.item-2{
+  background-color: lightgreen;
+  /* Align-self: works on cross axis */
+  align-self: center;
+}
+.item-3{
+  background-color: lightskyblue;
+  order: -1;
+}
+.item-4{
+  background-color: lightpink;
+}
+.item-5{
+  background-color: lightskyblue;
+}
+.item-6{
+  background-color: lightpink;
+}
+.item-7{
+  background-color: lightgreen;
+}
+.item-8{
+  background-color: lightskyblue;
+}
+.item-9{
+  background-color: lightpink;
+}
+.item-10{
+  background-color: lightgreen;
+}
