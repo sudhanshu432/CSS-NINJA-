@@ -1,0 +1,86 @@
+#container{
+  display: grid;
+  border: 2px solid blue;
+  width: 80vw;
+  height: 90vh;
+  /* grid-template-columns: 200px 200px 200px; This is not responsive */
+  /* grid-template-columns: 1fr 1fr 1fr; */
+  /* grid-template-columns: repeat(3, 150px); */
+  /* grid-template-columns: repeat(auto-fit, 150px); */
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  /* grid-template-columns: 1fr 2fr 1fr; */
+  /* Here 3 is the number of columns and 1fr will determine all 3 columns will have equal width */
+  /* grid-template-columns: repeat(3, 1fr); */
+  /* grid-template-columns: auto auto auto; */
+  /* grid-template-columns: repeat(3, auto); */
+
+  /* grid-auto-rows: 100px; */
+  /* grid-auto-rows: 50px; */
+  /* grid-auto-rows: minmax(50px, auto); */
+  /* grid-auto-rows: minmax(50px, 150px); */
+  grid-auto-rows: 100px;
+  /* row-gap: 10px;
+  column-gap: 20px; */
+  gap: 10px;
+  /* gap: 10px 20px; */
+  /* justify-items: start; */
+  /* justify-items: end; */
+  /* justify-items: center; */
+  /* justify-items: stretch; */
+  /* align-items: center; */
+  /* align-items: start; */
+  /* align-items: end; */
+  /* align-items: baseline; */
+  /* align-items: stretch; */
+
+  /* Place-items: is used as sorthand for justify-items and align-items */
+  /* place-items: center; */
+  /* All these properties workd on cell level only if you want to do alignment on whole row and column level see the below  and use justify-content and align-content*/
+
+  /* justify-content: works on x-axis only
+
+  /* justify-content: start; */
+  /* justify-content: end; */
+  /* justify-content: center; */
+  /* justify-content: space-around; */
+  /* justify-content: space-evenly; */
+  /* justify-content: space-between; */
+
+  /* align-content: works on y-axis */
+  /* align-content: start; */
+  /* align-content: end; */
+  /* align-content: center; */
+  /* align-content: space-between; */
+  /* align-content: space-evenly; */
+  /* align-content: space-around; */
+
+  
+
+
+
+}
+.box {
+  background-color: lightgreen;
+  border: 1px dotted green;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+/* #box3{
+  font-size: 40px;
+} */
+
+#box1{
+  grid-column-start:2;
+  grid-column-end:4 ;
+}
+
+#box2{
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+
+#box5{
+  /* grid-column: 2/4; */
+  grid-column: 2/ span 2;
+}

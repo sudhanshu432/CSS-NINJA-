@@ -1,0 +1,16 @@
+#container{
+  display: grid;
+  /* grid-template-columns: 200px 200px 200px; This is not responsive */
+  /* grid-template-columns: 1fr 1fr 1fr; */
+  /* grid-template-columns: 1fr 2fr 1fr; */
+  /* Here 3 is the number of columns and 1fr will determine all 3 columns will have equal width */
+  /* grid-template-columns: repeat(3, 1fr); */
+  /* grid-template-columns: auto auto auto; */
+  /* grid-template-columns: repeat(3, auto); */
+}
+.box {
+  background-color: lightgreen;
+  border: 1px dotted green;
+  border-radius: 10px;
+  padding: 20px;
+}
