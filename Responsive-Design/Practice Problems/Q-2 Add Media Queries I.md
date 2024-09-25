@@ -4,7 +4,6 @@
 Now, in the Velocity application add the necessary Media Queries for Tablet View to achieve the desired output as shown in the Expected Output section.
 
 ## Expected Output
-![Expected Output](https://github.com/user-attachments/assets/b2231f76-61a2-4cda-bf97-ed7335400243)
 
 Note:
 The desired output should adhere to the Test Cases mentioned below.
@@ -39,7 +38,7 @@ Ensure that the modifications adhere to the following test cases:
 
 
 ## HTML Code
-```html
+``` 
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -154,7 +153,8 @@ Ensure that the modifications adhere to the following test cases:
     <footer>
       <div>
         <img
-          class="footer-image" src="https://ninjasfiles.s3.amazonaws.com/asset_0000000000003363_1715797923_de0d07ff99927b8ef47fe710cd091871-removebg-preview.png"
+          class="footer-image"
+          src="https://ninjasfiles.s3.amazonaws.com/asset_0000000000003363_1715797923_de0d07ff99927b8ef47fe710cd091871-removebg-preview.png"
           alt="Car Icon"
         />
       </div>
@@ -169,7 +169,7 @@ Ensure that the modifications adhere to the following test cases:
 ```
 ## CSS
 ```
-body {
+ body {
   background-color: #e8f9fd;
   margin: 0;
   padding: 0;
@@ -277,6 +277,7 @@ footer {
 }
 
 /* Give tablet view media queries for screen widths between 768px and 1024px below */
+
 ```
 ## Modifications
 Make necessary adjustments to the HTML and CSS code to ensure responsiveness and achieve the expected output.
