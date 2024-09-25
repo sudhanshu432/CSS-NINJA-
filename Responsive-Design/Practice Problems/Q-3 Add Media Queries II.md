@@ -75,7 +75,7 @@ Ensure that the modifications adhere to the following test cases:
     - Ensure that the position property is set to static.
 
 ## HTML Code
-```html
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -190,7 +190,8 @@ Ensure that the modifications adhere to the following test cases:
     <footer>
       <div>
         <img
-          class="footer-image" src="https://ninjasfiles.s3.amazonaws.com/asset_0000000000003363_1715797923_de0d07ff99927b8ef47fe710cd091871-removebg-preview.png"
+          class="footer-image"
+          src="https://ninjasfiles.s3.amazonaws.com/asset_0000000000003363_1715797923_de0d07ff99927b8ef47fe710cd091871-removebg-preview.png"
           alt="Car Icon"
         />
       </div>
@@ -200,7 +201,6 @@ Ensure that the modifications adhere to the following test cases:
     </footer>
   </body>
 </html>
-
 
 ```
 ## CSS
@@ -312,7 +312,6 @@ footer {
   grid-row: 2;
 }
 
-/* Give tablet view media queries for screen widths between 768px and 1024px below */
 ```
 ## Modifications
 Make necessary adjustments to the HTML and CSS code to ensure responsiveness and achieve the expected output.
