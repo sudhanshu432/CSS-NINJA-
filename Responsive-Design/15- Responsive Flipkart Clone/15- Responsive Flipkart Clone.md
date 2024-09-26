@@ -6,6 +6,10 @@ In reference to the previous Flipkart Home Page Clone, the company has requested
 ## Note:
 Use the provided starter kit to write your code and then upload the zip file.
 
+## Expected Output:
+![image](https://github.com/user-attachments/assets/a0b6c959-1666-4ff0-9694-7fe0a165d07d)
+
+
 **Requirements**
 
 **1. Relative Units:**
