@@ -1,4 +1,4 @@
-# README: Media Queries vs. Container Queries
+# Media Queries vs. Container Queries
 
 ## Overview
 
