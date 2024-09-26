@@ -4,8 +4,9 @@
 Now, in the Velocity application add the necessary Media Queries for Tablet View to achieve the desired output as shown in the Expected Output section.
 
 ## Expected Output
+https://ninjasfiles.s3.amazonaws.com/asset_0000000000003435_1716537086_Untitled%20design%20(15).gif
 
-Note:
+**Note:**
 The desired output should adhere to the Test Cases mentioned below.
 
 ## Test Cases
