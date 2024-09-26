@@ -4,9 +4,9 @@
 In context to your previous Wildlife Photography Portfolio, there is a company's demand to add Responsiveness by adding Relative Units. Modify the given CSS code to achieve the desired output as shown in the Expected Output section.
 
 ## Expected Output
-![Expected Output](https://github.com/user-attachments/assets/b2231f76-61a2-4cda-bf97-ed7335400243)
+https://ninjasfiles.s3.amazonaws.com/asset_0000000000003295_1715599143_Untitled%20design%20(9).gif
 
-Note:
+**Note:**
 The desired output should adhere to the Test Cases mentioned below.
 
 ## Test Cases
