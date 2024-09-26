@@ -4,7 +4,7 @@
 In the Velocity application add the necessary Media Queries for Mobile and Tablet View to achieve the desired output as shown in the Expected Output section.
 
 ## Expected Output
-![Expected Output](https://github.com/user-attachments/assets/b2231f76-61a2-4cda-bf97-ed7335400243)
+https://ninjasfiles.s3.amazonaws.com/asset_0000000000003436_1716540849_Untitled%20design%20(16).gif
 
 Note:
 The desired output should adhere to the Test Cases mentioned below.
