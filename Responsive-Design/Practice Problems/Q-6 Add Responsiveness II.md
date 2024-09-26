@@ -4,9 +4,9 @@
 In the Wildlife Photography Portfolio add the necessary Media Queries to achieve the desired output as shown in the Expected Output section.
 
 ## Expected Output
-![Expected Output](https://github.com/user-attachments/assets/b2231f76-61a2-4cda-bf97-ed7335400243)
+https://ninjasfiles.s3.amazonaws.com/asset_0000000000003439_1716545902_Untitled%20design%20(18).gif
 
-Note:
+**Note:**
 The desired output should adhere to the Test Cases mentioned below.
 
 ## Test Cases
