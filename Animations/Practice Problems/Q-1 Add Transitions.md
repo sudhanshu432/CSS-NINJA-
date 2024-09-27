@@ -4,7 +4,7 @@
 In the Provided HTML and CSS code, add CSS Transition properties to achieve the desired output as shown in the “Expected Output” Section.
 
 ## Expected Output
-https://ninjasfiles.s3.amazonaws.com/asset_0000000000003516_1717139932_unnamed%20(6).gif
+![Magic_Card](https://github.com/user-attachments/assets/bdc1b266-c33a-41a5-8dca-32ece6715519)
 
 **Note:**
 The desired output should adhere to the Test Cases mentioned below.
