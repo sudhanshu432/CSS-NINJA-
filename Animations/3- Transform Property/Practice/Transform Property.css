@@ -1,0 +1,45 @@
+.box {
+    margin: auto;
+    margin-top: 100px;
+    padding: 10px;
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    font-size: 24px;
+    color: azure;
+    text-align: center;
+    border: solid black;
+    border-width: 10px 5px;
+    /* transform: rotate(120deg); */
+    /* transform: rotate(-120deg); */
+    /* transform: rotate(90deg); */
+    /* transform: rotate(-90deg); */
+        /* 1 turn = 360deg */
+    /* transform: rotate(1turn); */
+    /* transform: rotate(0.5turn); */
+    /* transform: rotate(0.6turn); */
+    /* transform: rotate(-0.6turn); */
+    /* transition: transform 2s, rotate 2s;  */
+  }
+  
+  body:hover .box {
+    /* transform: rotate(60deg); */
+    /* transform: scale(1); */
+    /* transform: scale(1.5); */
+    /* transform: scale(0.5); */
+    /* transform: scale(0.5 , 1.5); */
+    /* transform: skew(30deg); */
+    /* transform: skew(-30deg);*/
+    /* transform: skew(30deg ,30deg);  */
+    /* transform: translate(200px); */
+    /* transform: translate(200px) rotate(360deg); */
+    /* transform: translate(100%); */
+    /* transform: translate(-100%); */
+    /* transform: translate(50%); */
+    /* transform: translate(-50%); */
+    /* transform: translate(100% , 200px); */
+    /* transform: translate(100% , -200px); */
+    /* transform: translate(-100% , -200px); */
+    /* transform: translate(-100% , 200px); */
+  }
+  
