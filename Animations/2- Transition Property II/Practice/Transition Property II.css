@@ -1,0 +1,52 @@
+.box{
+    margin: 5px;
+    padding: 10px;
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    font-size: 24px;
+    color: azure;
+    text-align: center;
+}
+
+.trans{
+    transition-duration:2s;
+    transition-property: all;
+    /* transition-delay: 1s; */
+    /*on which i have to apply transition, duration ,  timing function , delay */
+    transition: width 1s ease-in 1s, 
+                background-color 0.5s ease-in-out;
+}
+
+/* Linear : Same speed from starting to end */
+
+.ease-in {
+    transition-timing-function: ease-in;
+}
+
+.ease-out { 
+    transition-timing-function: ease-out;
+}
+
+.ease-in-out {
+    transition-timing-function: ease-in-out;
+}
+
+.stepstart {
+    transition-timing-function: step-start;
+}
+
+.stepend {
+    transition-timing-function: step-end;
+}
+
+.steps {
+    transition-timing-function: steps(5);
+}
+
+
+.box:hover {
+    background-color: blue;
+    color: yellow;
+    width: 300px;
+}

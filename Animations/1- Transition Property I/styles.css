@@ -1,0 +1,24 @@
+.box {
+  margin: 5px;
+  padding: 10px;
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  font-size: 24px;
+  line-height: 9rem;
+  color: azure;
+  text-align: center;
+  display: inline-block;
+}
+
+.box:hover {
+  background-color: blue;
+  color: yellow;
+  width: 300px;
+}
+
+.trans {
+  transition-duration: 2s;
+  transition-property: background-color, color ;
+  transition-delay: 3s;
+}
