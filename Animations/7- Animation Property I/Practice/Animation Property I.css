@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 100%;
+  max-width: 800px;
+  height: 1px;
+  margin: 0 auto;
+  /* padding: 20px; */
+  background-color: black;
+}
+.ball {
+  width: 150px;
+  height: 150px;
+  margin: 5px;
+  background: conic-gradient(red, orange, yellow, green, blue);
+  border-radius: 50%;
+  animation-name: slide;
+  animation-duration: 1s;
+  animation-delay: 1s;
+  /* animation-iteration-count: 3; */
+  animation-iteration-count: infinite;
+  /* animation-direction: reverse; */
+  /* animation-direction: alternate-reverse; */
+  animation-direction: alternate;
+  animation-timing-function: ease-in-out;
+}
+
+@keyframes slide {
+  from {
+    transform: translateX(0%);
+  }
+  to {
+    transform: translateX(500px);
+  }
+  
+}
+
