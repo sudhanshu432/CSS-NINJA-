@@ -1,0 +1,73 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #333;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+  }
+  
+  .circle {
+    border-radius: 50%; 
+    animation-name: bounce;                /* Set animation name */
+    animation-duration: 1s;                /* Set animation duration */
+    animation-iteration-count: infinite;   /* Set iteration count */
+    animation-direction: alternate;         /* Set animation direction */
+    animation-timing-function: ease-in-out; /* Set timing function */
+    animation-fill-mode: both;              /* Set fill mode */
+  }
+  
+  /* Hover effect */
+  .circle:hover {
+    animation-play-state: paused;           /* Pause animation on hover */
+  }
+  
+  .circle:nth-child(1) {
+    width: 30px;
+    height: 30px;
+    background-color: #ff6347; 
+  }
+  
+  .circle:nth-child(2) {
+    width: 40px;
+    height: 40px;
+    background-color: #ffd700; 
+    animation-delay: 0.2s;                  /* Set animation delay */
+  }
+  
+  .circle:nth-child(3) {
+    width: 50px;
+    height: 50px;
+    background-color: #00ff7f; 
+    animation-delay: 0.4s;                  /* Set animation delay */
+  }
+  
+  .circle:nth-child(4) {
+    width: 40px;
+    height: 40px;
+    background-color: #87ceeb; 
+    animation-delay: 0.6s;                  /* Set animation delay */
+  }
+  
+  .circle:nth-child(5) {
+    width: 30px;
+    height: 30px;
+    background-color: #da70d6; 
+    animation-delay: 0.8s;                  /* Set animation delay */
+  }
+  
+  /* Keyframes for bounce animation */
+  @keyframes bounce {
+    from {
+      transform: translateY(0);            /* Start position */
+    }
+    to {
+      transform: translateY(-100px);       /* End position */
+    }
+  }
+  
